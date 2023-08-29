@@ -1,4 +1,4 @@
-# Dashboard Adventureworks
+# Dashboard Adventure Works
 Business Intelligence Dashboard created from the udemy course Microsoft Power BI for Business Intelligence.
 
 ## Project Overview
